@@ -12,27 +12,6 @@
 * 學號3：0624065 姓名3：吳禹均
 * 學號4：0624071 姓名4：古宣鴻
 
-###### `The 1st Homework`:+1:
-
-```
-* 學號1：0624023 姓名1：黃郁凱
-* 學號2：0624043 姓名2：黃暐翔
-* 學號3：0624065 姓名3：吳禹均
-* 學號4：0624071 姓名4：古宣鴻
-```
-[高科大](https://www.nkust.edu.tw/):smirk:
-
-|first|second|third|
-|:----|:----:|----:|
-|1|2|3|
-|1|2|3|
-
-![NKFUST](nkust.jpg "第一科大")
-
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
-
-一、	專題名稱:人機互動-資訊機器人
-
 二、	專題需求:
 1.如今社會高齡化現象越來越嚴重，許多獨居老人能透過溝通來得到幫助
 2.現實中的實際操作能驅動電腦裡的程式作動
